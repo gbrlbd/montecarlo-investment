@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import statistics as st
 
 def montecarlo_simulation(S0, pac, mu, sigma, n, m):
     # steps
